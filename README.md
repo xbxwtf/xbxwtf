@@ -5,8 +5,7 @@
 
 <br/> Things I use
  
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2f74c0.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
