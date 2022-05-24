@@ -12,6 +12,7 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-192c5f.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>	
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-450135.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   
