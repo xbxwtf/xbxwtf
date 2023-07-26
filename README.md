@@ -1,5 +1,5 @@
 <a href="https://github.com/xbxwtf">
-<img style="border-radius: 10px;" src="https://api.xbx.wtf/svg/post?title=github.com/therealxbx&description=%20Welcome%20to%20my%20GitHub%20Profile&type=png">
+<img style="border-radius: 10px;" src="https://api.xbx.wtf/svg/post?title=github.com/xbxwtf&description=%20Welcome%20to%20my%20GitHub%20Profile&type=png">
 </a>
 
 <hr />
